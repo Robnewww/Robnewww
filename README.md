@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Robnew 👋
 
 <!--
 **Robnewww/Robnewww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Robnewww&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Robnewww&theme=radical&show_icons=true&hide_border=true&layout=compact&bg_color=00000000">
+</p>
